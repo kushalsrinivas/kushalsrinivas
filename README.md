@@ -2,9 +2,9 @@
 - 👀 I’m interested in Web developement and web apps
 - 🌱 I’m currently learning react.js
 - 📫 you can find me on : 
-    📸 : https://www.instagram.com/kushalsrinivasn/
-    🕊 : https://twitter.com/kushalsrinivasn
-    💌 : kushal.s.2005@gmail.com
+   - 📸 : https://www.instagram.com/kushalsrinivasn/
+   - 🕊 : https://twitter.com/kushalsrinivasn
+   - 💌 : kushal.s.2005@gmail.com
 
 
 <!---
