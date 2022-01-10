@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/kushalsrinivas/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+[![Header](https://raw.githubusercontent.com/kushalsrinivas/<OWNER>/<OWNER>/readme_header.png "Header")](https://i.pinimg.com/564x/b1/83/9b/b1839b3a6403c10bf9be42f0d7081858.jpg)
 
 
 - 👋 Hi, I’m @kushalsrinivas
