@@ -59,7 +59,6 @@ To secure a role as a Machine Learning Engineer or Data Scientist, leveraging my
 ## Connect with me
 - [LinkedIn](https://www.linkedin.com/in/kushal-s075/) 📎
 - [Email](kushal.s.2005@email.com)📧 
-- [Phone](+91 7619552810)📞
 - [Twitter](https://twitter.com/Kushalsrinivasn)🕊️
 - [Instagram](https://www.instagram.com/onemorekushal/)📸
 
