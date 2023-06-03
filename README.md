@@ -1,8 +1,5 @@
 # Kushal Srinivas ✨
 
-## Objective
-To secure a role as a Machine Learning Engineer or Data Scientist, leveraging my skills and experience in Python, machine learning, artificial intelligence, UI/UX design, and the MERN stack to contribute to innovative projects and collaborate with a team of experts.
-
 ## Skills 🚀
 - Machine learning algorithms: Regression, Clustering (unsupervised learning), Deep Learning, Classification, Artificial Neural Networks, Convolutional Neural Networks
 - Programming languages: Python, JavaScript, HTML, CSS
