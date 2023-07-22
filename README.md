@@ -1,5 +1,12 @@
 # Kushal Srinivas ✨
 
+## Connect with me
+- [LinkedIn](https://www.linkedin.com/in/kushal-s075/) 📎
+- [Email](kushal.s.2005@email.com)📧 
+- [Twitter](https://twitter.com/Kushalsrinivasn)🕊️
+- [Instagram](https://www.instagram.com/onemorekushal/)📸
+
+
 ## Skills 🚀
 - Machine learning algorithms: Regression, Clustering (unsupervised learning), Deep Learning, Classification, Artificial Neural Networks, Convolutional Neural Networks
 - Programming languages: Python, JavaScript, HTML, CSS
@@ -53,10 +60,6 @@
 - English (Fluent)
 - Hindi (Intermediate)
 
-## Connect with me
-- [LinkedIn](https://www.linkedin.com/in/kushal-s075/) 📎
-- [Email](kushal.s.2005@email.com)📧 
-- [Twitter](https://twitter.com/Kushalsrinivasn)🕊️
-- [Instagram](https://www.instagram.com/onemorekushal/)📸
+
 
 HIRE ME ALREADY !
