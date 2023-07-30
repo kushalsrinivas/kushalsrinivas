@@ -60,11 +60,12 @@ Highly skilled and passionate professional seeking a role where I can leverage m
    - Implemented using Python and Keras.
 
 ## Certifications :medal_military:
-- The Complete 2023 Web Development Bootcamp
+- The Complete 2023 Web Development Bootcamp 
 - The Complete Python Bootcamp From Zero to Hero in Python
 - Tensorflow 2.0: Deep Learning and Artificial Intelligence
 - Flutter & Dart - The Complete Guide [2023 Edition]
 - Complete Web & Mobile Designer in 2023: UI/UX, Figma, +more
+  (all courses were from UDEMY)
 
 ## Languages :globe_with_meridians:
 - English (Fluent)
