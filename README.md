@@ -25,40 +25,36 @@ Highly skilled and passionate professional seeking a role where I can leverage m
 - Demonstrated exceptional teamwork and leadership skills, fostering a cohesive and supportive work environment.
 
 ### Machine Learning Intern | Suvida Foundation
-- Developed and maintained real-world applications using the MERN stack.
-- Collaborated with team members to design and implement features, ensuring high code quality and adherence to project timelines.
-- Optimized application performance and user experience through effective problem-solving and debugging.
+- Evaluated and summarized the CNN/Daily Mail dataset using pointer-generator networks.
+- Implemented natural language processing techniques to generate concise summaries.
+- Utilized Python, TensorFlow, and NLP libraries for data processing and model development.
 
 ## Projects :rocket:
-1. **NLP Project for Coding Get-to-the-Point Summarization with Pointer-Generator Networks** :scroll:
-   - Evaluated and summarized the CNN/Daily Mail dataset using pointer-generator networks.
-   - Implemented natural language processing techniques to generate concise summaries.
-   - Utilized Python, TensorFlow, and NLP libraries for data processing and model development.
 
-2. **ReactJS Project Planner App** :calendar:
+1. **ReactJS Project Planner App** :calendar:
    - Developed a project planner app using ReactJS.
    - Implemented features for managing milestones, deliverables, tasks, and deadlines.
    - Utilized OpenAI API to generate project plans using AI capabilities.
    - Created a project dashboard to track project progress and display relevant information.
 
-3. **Python YouTube Bot** :movie_camera:
+2. **Python YouTube Bot** :movie_camera:
    - Built a Python bot that downloads videos from a subreddit using web scraping techniques.
    - Compiled the downloaded videos into a single video using AI-generated descriptions and titles.
    - Uploaded the compiled video to YouTube sequentially using the YouTube API.
    - Leveraged Python libraries for web scraping, AI processing, and YouTube integration.
 
-4. **Python Instagram Bot** :camera_flash:
+3. **Python Instagram Bot** :camera_flash:
    - Developed a Python bot that scrapes several subreddits, such as "fujifilm," "filmphotos," "filmphotography," "analog," etc.
    - Scheduled posts from the scraped content onto Instagram with cookie-cutter captions.
    - Utilized Python libraries for web scraping, image processing, and Instagram API integration.
 
-5. **Predicting Breast Cancer using Regression and Classification** :chart_with_upwards_trend:
+4. **Predicting Breast Cancer using Regression and Classification** :chart_with_upwards_trend:
    - Developed a machine learning model to predict the likelihood of breast cancer based on several input features.
    - Achieved 95% accuracy in classification and 88% accuracy in regression.
    - Implemented using Python, TensorFlow, and Scikit-learn.
    - Utilized machine learning algorithms such as logistic regression and random forest.
 
-6. **Predicting Energy Cycles of a Power Plant using Artificial Neural Networks** :electric_plug:
+5. **Predicting Energy Cycles of a Power Plant using Artificial Neural Networks** :electric_plug:
    - Built an artificial neural network to forecast energy cycles in a power plant.
    - Achieved 98% accuracy and optimized plant operations to reduce costs.
    - Implemented using Python and Keras.
