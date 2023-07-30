@@ -1,65 +1,78 @@
-# Kushal Srinivas ✨
+# Kushal Srinivas :technologist:
 
-## Connect with me
-- [LinkedIn](https://www.linkedin.com/in/kushal-s075/) 📎
-- [Email](kushal.s.2005@email.com)📧 
-- [Twitter](https://twitter.com/Kushalsrinivasn)🕊️
-- [Instagram](https://www.instagram.com/onemorekushal/)📸
+📧 Email: kushal.s.2005@email.com  
+🔗 LinkedIn: [linkedin.com/in/kushal-s075/](https://www.linkedin.com/in/kushal-s075/)  
+💻 GitHub: [github.com/kushalsrinivas](https://github.com/kushalsrinivas)
 
+## Career Objective :dart:
+Highly skilled and passionate professional seeking a role where I can leverage my expertise in Python, machine learning, artificial intelligence, UI/UX design, and the MERN stack to contribute to innovative projects and collaborate with a team of experts. Committed to utilizing technology to solve complex problems and create user-friendly solutions, I aim to contribute to the development of cutting-edge applications and drive success within the organization I work for.
 
-## Skills 🚀
-- Machine learning algorithms: Regression, Clustering (unsupervised learning), Deep Learning, Classification, Artificial Neural Networks, Convolutional Neural Networks
-- Programming languages: Python, JavaScript, HTML, CSS
-- Front-end development: React, Redux, MERN stack, Next.js
-- Flutter development: Dart, Flutter framework, UI/UX design
-- Tools: TensorFlow, Scikit-learn, Git, Keras, PyTorch, Google colab, Streamlit, Matplotlib, Pandas, npm, Command line
+## Skills :computer:
+- Programming Languages: Python, JavaScript, HTML, CSS
+- Machine Learning Algorithms: Regression, Clustering (unsupervised learning), Deep Learning, Classification, Artificial Neural Networks, Convolutional Neural Networks
+- Front-End Development: React, Redux, MERN stack, Next.js
+- Flutter Development: Dart, Flutter framework, UI/UX design
+- Tools: TensorFlow, Scikit-learn, Git, Keras, PyTorch, Google Colab, Streamlit, Matplotlib, Pandas, npm, Command Line
 
-## Experience 💼
+## Experience :briefcase:
+### Tech Lead | Startup Tenacity
+- Led and collaborated with a diverse team of 8 members to successfully develop and deliver a range of projects.
+- Championed the development of a dynamic course platform, empowering team members to curate open-source courses with projects as means of progress validation.
+- Spearheaded the creation of a feature-rich Python code editor, integrating OpenAI's API to suggest solutions for errors and optimize output.
+- Designed and implemented a robust user management system for secure authentication and streamlined user handling.
+- Developed an intuitive blog system for the website, enabling team members to upload markdown files for automatic updates.
+- Implemented a user feedback system to gather valuable insights and enhance platform functionality.
+- Demonstrated exceptional teamwork and leadership skills, fostering a cohesive and supportive work environment.
+
 ### Machine Learning Intern | Suvida Foundation
 - Developed and maintained real-world applications using the MERN stack.
 - Collaborated with team members to design and implement features, ensuring high code quality and adherence to project timelines.
 - Optimized application performance and user experience through effective problem-solving and debugging.
 
-## Projects 🛠️
-1. Predicting Breast Cancer using Regression and Classification
+## Projects :rocket:
+1. **NLP Project for Coding Get-to-the-Point Summarization with Pointer-Generator Networks** :scroll:
+   - Evaluated and summarized the CNN/Daily Mail dataset using pointer-generator networks.
+   - Implemented natural language processing techniques to generate concise summaries.
+   - Utilized Python, TensorFlow, and NLP libraries for data processing and model development.
+
+2. **ReactJS Project Planner App** :calendar:
+   - Developed a project planner app using ReactJS.
+   - Implemented features for managing milestones, deliverables, tasks, and deadlines.
+   - Utilized OpenAI API to generate project plans using AI capabilities.
+   - Created a project dashboard to track project progress and display relevant information.
+
+3. **Python YouTube Bot** :movie_camera:
+   - Built a Python bot that downloads videos from a subreddit using web scraping techniques.
+   - Compiled the downloaded videos into a single video using AI-generated descriptions and titles.
+   - Uploaded the compiled video to YouTube sequentially using the YouTube API.
+   - Leveraged Python libraries for web scraping, AI processing, and YouTube integration.
+
+4. **Python Instagram Bot** :camera_flash:
+   - Developed a Python bot that scrapes several subreddits, such as "fujifilm," "filmphotos," "filmphotography," "analog," etc.
+   - Scheduled posts from the scraped content onto Instagram with cookie-cutter captions.
+   - Utilized Python libraries for web scraping, image processing, and Instagram API integration.
+
+5. **Predicting Breast Cancer using Regression and Classification** :chart_with_upwards_trend:
    - Developed a machine learning model to predict the likelihood of breast cancer based on several input features.
-   - Achieved an accuracy of 95% in classification and 88% in regression.
+   - Achieved 95% accuracy in classification and 88% accuracy in regression.
    - Implemented using Python, TensorFlow, and Scikit-learn.
    - Utilized machine learning algorithms such as logistic regression and random forest.
 
-2. Predicting Energy Cycles of a Power Plant using Artificial Neural Networks
+6. **Predicting Energy Cycles of a Power Plant using Artificial Neural Networks** :electric_plug:
    - Built an artificial neural network to forecast energy cycles in a power plant.
-   - Achieved an accuracy of 98% and optimized plant operations to reduce costs.
+   - Achieved 98% accuracy and optimized plant operations to reduce costs.
    - Implemented using Python and Keras.
 
-3. Recommendation System for Finding Pairs of Products
-   - Developed a collaborative filtering recommendation system to identify pairs of products frequently bought together.
-   - Achieved a precision of 85% and improved cross-selling strategies for a retail company.
-   - Implemented using Python and collaborative filtering techniques.
+## Certifications :medal_military:
+- The Complete 2023 Web Development Bootcamp
+- The Complete Python Bootcamp From Zero to Hero in Python
+- Tensorflow 2.0: Deep Learning and Artificial Intelligence
+- Flutter & Dart - The Complete Guide [2023 Edition]
+- Complete Web & Mobile Designer in 2023: UI/UX, Figma, +more
 
-4. Meals App
-   - Created a Flutter app that displays various cuisines, allows users to filter by cuisine type, and provides detailed information about ingredients.
-   - Developed using Dart and Flutter framework, incorporating API integration and various Flutter packages.
-   - Implemented UI/UX design principles to deliver an intuitive user experience.
-
-5. Financial Calculator
-   - Developed a Flutter app that calculates EMI, returns, FD, and RD returns.
-   - Utilized data visualization tools such as syncfusion_flutter_charts to present financial data effectively.
-   - Implemented using Dart and Flutter framework.
-
-## Volunteer Experience 🤝
-- Mentored high school students, providing guidance and support in coding and machine learning concepts.
-- Facilitated workshops and coding sessions, fostering a collaborative learning environment.
-- Engaged in coding competitions and hackathons, honing problem-solving skills and collaborating with diverse teams on innovative projects.
-
-## Certifications 📜
-- Machine Learning A-Z™: AI, Python & R (Udemy)
-- The Complete 2023 Web Development Bootcamp (Udemy)
-
-## Languages 🌍
+## Languages :globe_with_meridians:
 - English (Fluent)
 - Hindi (Intermediate)
 
-
-
-HIRE ME ALREADY !
+## References :memo:
+Available upon request.
