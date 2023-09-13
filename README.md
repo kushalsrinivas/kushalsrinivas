@@ -15,7 +15,7 @@ Highly skilled and passionate professional seeking a role where I can leverage m
 - Tools: TensorFlow, Scikit-learn, Git, Keras, PyTorch, Google Colab, Streamlit, Matplotlib, Pandas, npm, Command Line
 
 ## Experience :briefcase:
-### Tech Lead | Startup Tenacity
+### Tech Lead | Startup [Tenacity](https://tenacity.social/)
 - Led and collaborated with a diverse team of 8 members to successfully develop and deliver a range of projects.
 - Championed the development of a dynamic course platform, empowering team members to curate open-source courses with projects as means of progress validation.
 - Spearheaded the creation of a feature-rich Python code editor, integrating OpenAI's API to suggest solutions for errors and optimize output.
@@ -29,7 +29,7 @@ Highly skilled and passionate professional seeking a role where I can leverage m
 - Implemented natural language processing techniques to generate concise summaries.
 - Utilized Python, TensorFlow, and NLP libraries for data processing and model development.
 
-### Lead Developer | Promptly - Chrome Extension 
+### Lead Developer | [Promptly - Chrome Extension](https://promptly-plugin.vercel.app/)
 - Led the development of the "Promptly" Chrome extension, enhancing ChatGPT's capabilities with instant access to a prompt library for improved productivity.
 - Key Features:
   - Built-In Prompt Library: Curated a wide array of pre-defined prompts and templates for various writing scenarios and tasks, streamlining the writing process.
