@@ -15,7 +15,7 @@ Highly skilled and passionate professional seeking a role where I can leverage m
 - Tools: TensorFlow, Scikit-learn, Git, Keras, PyTorch, Google Colab, Streamlit, Matplotlib, Pandas, npm, Command Line
 
 ## Experience :briefcase:
-### Tech Lead | Startup [Tenacity](https://tenacity.social/)
+### Tech Lead | [Startup Tenacity](https://tenacity.social/)
 - Led and collaborated with a diverse team of 8 members to successfully develop and deliver a range of projects.
 - Championed the development of a dynamic course platform, empowering team members to curate open-source courses with projects as means of progress validation.
 - Spearheaded the creation of a feature-rich Python code editor, integrating OpenAI's API to suggest solutions for errors and optimize output.
