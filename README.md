@@ -29,6 +29,16 @@ Highly skilled and passionate professional seeking a role where I can leverage m
 - Implemented natural language processing techniques to generate concise summaries.
 - Utilized Python, TensorFlow, and NLP libraries for data processing and model development.
 
+### Lead Developer | Promptly - Chrome Extension 
+- Led the development of the "Promptly" Chrome extension, enhancing ChatGPT's capabilities with instant access to a prompt library for improved productivity.
+- Key Features:
+  - Built-In Prompt Library: Curated a wide array of pre-defined prompts and templates for various writing scenarios and tasks, streamlining the writing process.
+  - Personas: Enabled users to create and switch between different virtual personas tailored to specific writing styles, tones, or contexts.
+  - Create Prompt Templates: Crafted personalized prompt templates for specialized scenarios, optimizing writing efficiency.
+- Collaborated with a team to design, develop, and deploy the extension.
+- Effectively managed the project's development lifecycle, ensuring timely delivery and high-quality output.
+- Leveraged React, Supabase, Webpack, and Next.js to create a seamless user experience.
+
 ## Projects :rocket:
 
 1. **ReactJS Project Planner App** :calendar:
@@ -59,14 +69,6 @@ Highly skilled and passionate professional seeking a role where I can leverage m
    - Achieved 98% accuracy and optimized plant operations to reduce costs.
    - Implemented using Python and Keras.
    
-6. **Promptly - Chrome Extension (React, Supabase, Webpack, Next.js)** :robot:
-   - Elevates ChatGPT with a Chrome extension, enabling instant access to a prompt library for enhanced productivity.
-   - Key Features:
-     - Built-In Prompt Library: Offers a wide array of pre-defined prompts and templates for various writing scenarios and tasks, streamlining the writing process.
-     - Personas: Allows users to create and switch between different virtual personas tailored to specific writing styles, tones, or contexts.
-     - Create Prompt Templates: Enables the crafting of personalized prompt templates for specialized scenarios, optimizing writing efficiency.
-   - Role: Lead Developer
-   - Technologies Used: React, Supabase, Webpack, Next.js
 
 ## Certifications :medal_military:
 - The Complete 2023 Web Development Bootcamp 
