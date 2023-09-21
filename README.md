@@ -12,7 +12,7 @@ Highly skilled and passionate professional seeking a role where I can leverage m
 - Machine Learning Algorithms: Regression, Clustering (unsupervised learning), Deep Learning, Classification, Artificial Neural Networks, Convolutional Neural Networks
 - Front-End Development: React, Redux, MERN stack, Next.js
 - Flutter Development: Dart, Flutter framework, UI/UX design
-- Tools: TensorFlow, Scikit-learn, Git, Keras, PyTorch, Google Colab, Streamlit, Matplotlib, Pandas, npm, Command Line
+- Tools: TensorFlow, Scikit-learn, Git, Keras, PyTorch, Google Colab, Streamlit, Matplotlib, Pandas, npm, VsCode, VIM
 
 ## Experience :briefcase:
 ### Tech Lead | [Startup Tenacity](https://tenacity.social/)
