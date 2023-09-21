@@ -8,7 +8,7 @@
 Highly skilled and passionate professional seeking a role where I can leverage my expertise in Python, machine learning, artificial intelligence, UI/UX design, and the MERN stack to contribute to innovative projects and collaborate with a team of experts. Committed to utilizing technology to solve complex problems and create user-friendly solutions, I aim to contribute to the development of cutting-edge applications and drive success within the organization I work for.
 
 ## Skills :computer:
-- Programming Languages: Python, JavaScript, HTML, CSS
+- Programming Languages: Python, JavaScript, HTML, CSS, Flutter, Reactjs, Nextjs, Nodejs, Swift, C, C++
 - Machine Learning Algorithms: Regression, Clustering (unsupervised learning), Deep Learning, Classification, Artificial Neural Networks, Convolutional Neural Networks
 - Front-End Development: React, Redux, MERN stack, Next.js
 - Flutter Development: Dart, Flutter framework, UI/UX design
