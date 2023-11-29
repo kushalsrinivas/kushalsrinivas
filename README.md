@@ -22,7 +22,7 @@
 </tr>
 <tr>
 <td>
-<img src = "https://skillicons.dev/icons?i=js,ts,react,nextjs,threejs,redux,bootstrap,materialui,tailwindcss,emotion,shadcn,figma" >
+<img src = "https://skillicons.dev/icons?i=js,ts,react,nextjs,threejs,redux,bootstrap,materialui,tailwindcss,figma" >
 </td>
 <td>
 <img src = "https://skillicons.dev/icons?i=vercel,azure,docker,aws,githubactions,netlify,heroku,gcp&theme=dark">
@@ -57,13 +57,13 @@
 <img src = "https://skillicons.dev/icons?i=nodejs,flask,postgresql,mysql,sequelize,mongodb,express,firebase&theme=dark">
 </td>
 <td>
-<img src = "https://skillicons.dev/icons?i=postman,graphql,supabase&theme=dark">
+<img src = "https://skillicons.dev/icons?i=postman,graphql,fastapi&theme=dark">
 </td>
 <td>
-<img src = "https://skillicons.dev/icons?i=c,cpp,py,rust&theme=dark">
+<img src = "https://skillicons.dev/icons?i=c,cpp,py,flutter,swift&theme=dark">
 </td>
 <td>
-<img src = "https://skillicons.dev/icons?i=md,raspberrypi,arduino,linux&theme=dark">
+<img src = "https://skillicons.dev/icons?i=md,raspberrypi,arduino,linux,blender&theme=dark">
 </td>
 </tr>
 </table>
