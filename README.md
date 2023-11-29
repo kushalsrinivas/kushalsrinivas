@@ -22,7 +22,7 @@
 </tr>
 <tr>
 <td>
-<img src = "https://skillicons.dev/icons?i=js,ts,react,nextjs,threejs,redux,bootstrap,materialui,tailwindcss,emotion,shadcnui,figma" >
+<img src = "https://skillicons.dev/icons?i=js,ts,react,nextjs,threejs,redux,bootstrap,materialui,tailwindcss,emotion,shadcn,figma" >
 </td>
 <td>
 <img src = "https://skillicons.dev/icons?i=vercel,azure,docker,aws,githubactions,netlify,heroku,gcp&theme=dark">
