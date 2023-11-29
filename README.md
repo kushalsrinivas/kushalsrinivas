@@ -31,7 +31,7 @@
 <img src = "https://skillicons.dev/icons?i=git,github,gitlab,bash&theme=dark">
 </td>
 <td>
-<img src = "https://skillicons.dev/icons?i=vscode,codepen,pycharm,andriodstudio,xcode&theme=dark">
+<img src = "https://skillicons.dev/icons?i=vscode,codepen&theme=dark">
 </td>
 </tr>
 </table>
