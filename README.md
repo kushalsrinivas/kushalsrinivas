@@ -3,16 +3,73 @@
 📧 Email: kushal.s.2005@email.com  
 🔗 LinkedIn: [linkedin.com/in/kushal-s075/](https://www.linkedin.com/in/kushal-s075/)  
 💻 GitHub: [github.com/kushalsrinivas](https://github.com/kushalsrinivas)
+## ⚡ Languages, Tools and Technologies
 
-## Career Objective :dart:
-Highly skilled and passionate professional seeking a role where I can leverage my expertise in Python, machine learning, artificial intelligence, UI/UX design, and the MERN stack to contribute to innovative projects and collaborate with a team of experts. Committed to utilizing technology to solve complex problems and create user-friendly solutions, I aim to contribute to the development of cutting-edge applications and drive success within the organization I work for.
+<table> 
+<tr>
+<td>
+<strong>Frontend & Design</strong>
+</td>
+<td>
+<strong>DevOps & Deployment</strong>
+</td>
+<td>
+<strong>Version Control</strong>
+</td>
+<td>
+<strong>Editors</strong>
+</td>
+</tr>
+<tr>
+<td>
+<img src = "https://skillicons.dev/icons?i=js,react,nextjs,threejs,redux,bootstrap,materialui,tailwindcss,emotion,styledcomponents,figma" >
+</td>
+<td>
+<img src = "https://skillicons.dev/icons?i=vercel,azure,docker,aws,githubactions,netlify,heroku,gcp&theme=dark">
+</td>
+<td>
+<img src = "https://skillicons.dev/icons?i=git,github,gitlab,bash&theme=dark">
+</td>
+<td>
+<img src = "https://skillicons.dev/icons?i=vscode,codepen&theme=dark">
+</td>
+</tr>
+</table>
 
-## Skills :computer:
-- Programming Languages: Python, JavaScript, HTML, CSS, Flutter, Reactjs, Nextjs, Nodejs, Swift, C, C++
-- Machine Learning Algorithms: Regression, Clustering (unsupervised learning), Deep Learning, Classification, Artificial Neural Networks, Convolutional Neural Networks
-- Front-End Development: React, Redux, MERN stack, Next.js
-- Flutter Development: Dart, Flutter framework, UI/UX design
-- Tools: TensorFlow, Scikit-learn, Git, Keras, PyTorch, Google Colab, Streamlit, Matplotlib, Pandas, npm, VsCode, VIM
+
+<table>
+<tr>
+<td>
+<strong>Backend & Databases</strong>
+</td>
+<td>
+<strong>API & Testing</strong>
+</td>
+<td>
+<strong>Languages</strong>
+</td>
+<td>
+<strong>Miscellaneous</strong>
+</td>
+</tr>
+<tr>
+<td>
+<img src = "https://skillicons.dev/icons?i=nodejs,flask,postgresql,mysql,sequelize,mongodb,express,firebase&theme=dark">
+</td>
+<td>
+<img src = "https://skillicons.dev/icons?i=postman,graphql,supabase&theme=dark">
+</td>
+<td>
+<img src = "https://skillicons.dev/icons?i=c,cpp,py,rust&theme=dark">
+</td>
+<td>
+<img src = "https://skillicons.dev/icons?i=md,raspberrypi,arduino,linux&theme=dark">
+</td>
+</tr>
+</table>
+<hr>
+
+
 
 ## Experience :briefcase:
 ### Tech Lead | [Startup Tenacity](https://tenacity.social/)
