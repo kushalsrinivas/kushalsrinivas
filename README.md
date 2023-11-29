@@ -25,13 +25,13 @@
 <img src = "https://skillicons.dev/icons?i=js,ts,react,nextjs,threejs,redux,bootstrap,materialui,tailwindcss,figma" >
 </td>
 <td>
-<img src = "https://skillicons.dev/icons?i=vercel,azure,docker,aws,githubactions,netlify,heroku,gcp&theme=dark">
+<img src = "https://skillicons.dev/icons?i=vercel,azure,docker,aws,githubactions,gcp&theme=dark">
 </td>
 <td>
 <img src = "https://skillicons.dev/icons?i=git,github,gitlab,bash&theme=dark">
 </td>
 <td>
-<img src = "https://skillicons.dev/icons?i=vscode,codepen&theme=dark">
+<img src = "https://skillicons.dev/icons?i=vscode,codepen,pycharm,andriodstudio,xcode&theme=dark">
 </td>
 </tr>
 </table>
@@ -54,7 +54,7 @@
 </tr>
 <tr>
 <td>
-<img src = "https://skillicons.dev/icons?i=nodejs,flask,postgresql,mysql,sequelize,mongodb,express,firebase&theme=dark">
+<img src = "https://skillicons.dev/icons?i=nodejs,flask,postgresql,mysql,sequelize,mongodb,supabase,express,firebase&theme=dark">
 </td>
 <td>
 <img src = "https://skillicons.dev/icons?i=postman,graphql,fastapi&theme=dark">
