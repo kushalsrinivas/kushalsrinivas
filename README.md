@@ -79,6 +79,8 @@
 </td>
 </tr>
 </table>
+
+
 ## Experience :briefcase:
 ### Tech Lead | [Startup Tenacity](https://tenacity.social/)
 - Led and collaborated with a diverse team of 8 members to successfully develop and deliver a range of projects.
