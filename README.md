@@ -1,8 +1,8 @@
 # Kushal Srinivas :technologist:
 
-📧 Email: kushal.s.2005@email.com  
-🔗 LinkedIn: [linkedin.com/in/kushal-s075/](https://www.linkedin.com/in/kushal-s075/)  
-💻 GitHub: [github.com/kushalsrinivas](https://github.com/kushalsrinivas)
+[📧 Portifolio](https://kushal-portifolio.vercel.app/)
+[🔗 LinkedIn](https://www.linkedin.com/in/kushal-s075/)  
+[🕊️ Twitter](https://twitter.com/Kushalsrinivasn)
 ## ⚡ Languages, Tools and Technologies
 
 <table> 
