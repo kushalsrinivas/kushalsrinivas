@@ -1,8 +1,8 @@
 # Kushal Srinivas :technologist:
 
-<div>[📧 Portifolio](https://kushal-portifolio.vercel.app/)</div>
-<div>[🔗 LinkedIn](https://www.linkedin.com/in/kushal-s075/)  </div>
-<div>[🕊️ Twitter](https://twitter.com/Kushalsrinivasn)</div>
+[📧 Portifolio](https://kushal-portifolio.vercel.app/)
+[🔗 LinkedIn](https://www.linkedin.com/in/kushal-s075/) 
+[🕊️ Twitter](https://twitter.com/Kushalsrinivasn)
 ## ⚡ Languages, Tools and Technologies
 
 <table> 
