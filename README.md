@@ -73,7 +73,7 @@
 <table>
 <tr>
 <td colspan = "2">
-<a href = "https://taufeeq.bio.link">
+<a href = "https://kushal-portifolio.vercel.app/">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kushalsrinivas&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff">
 </a>
 </td>
