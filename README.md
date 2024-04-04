@@ -106,7 +106,7 @@
 **Co-Founder | [Everything Blog](https://www.everythingblog.in/)**
 
 * Developed a fully automated blog management system using Next.js as the front-end framework and Notion.so as a headless CMS.
-* Streamlined content creation with a custom script enabling efficient blog post publishing. Users simply enter the title, and the script automates the following:
+* Streamlined content creation with a custom script enabling efficient blog post publishing. I simply enter the title, and the script automates the following:
     * Uploads content to a pre-configured Notion workspace, ensuring SEO best practices for improved search ranking.
     * Publishes the blog post on the website, minimizing manual intervention and maximizing efficiency.
 * Leveraged Next.js's server-side rendering (SSR) capabilities for optimal SEO performance and a seamless user experience.
