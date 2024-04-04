@@ -85,12 +85,12 @@
 
 **Tech Lead | [Tenacity (Startup)](https://tenacity.social/)**
 
-* Spearheaded the development and delivery of X successful projects, fostering a cohesive and supportive team environment (8 members).
-* Architected a dynamic course platform with project-based validation, boosting completion rates by W%.
-* Championed the creation of a feature-rich Python code editor with OpenAI integration, reducing error resolution time by X%. This integration intelligently suggests solutions and optimizes code output.
-* Designed and implemented a scalable user management system, ensuring secure authentication and streamlining user onboarding by Y%, reducing administrative overhead.
+* Spearheaded the development and delivery of 2 successful projects, fostering a cohesive and supportive team environment (8 members).
+* Architected a dynamic course platform with project-based validation, boosting completion rates.
+* Championed the creation of a feature-rich Python code editor with OpenAI integration, reducing error resolution time . This integration intelligently suggests solutions and optimizes code output.
+* Designed and implemented a scalable user management system, ensuring secure authentication and streamlining user onboarding , reducing administrative overhead.
 * Developed an intuitive blog system enabling team members to upload markdown files for automatic updates, streamlining content creation.
-* Implemented a user feedback system generating Z valuable insights, leading to A feature improvements.
+* Implemented a user feedback system generating valuable insights.
 
 **Co-Founder | [Promptly Chrome Extension](https://promptly-plugin.vercel.app/)**
 
