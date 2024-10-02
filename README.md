@@ -81,14 +81,15 @@
 </table>
 
 
+
 ## Experience :briefcase:
 
 **Tech Lead | [Tenacity (Startup)](https://tenacity.social/)**
 
 * Spearheaded the development and delivery of 2 successful projects, fostering a cohesive and supportive team environment (8 members).
 * Architected a dynamic course platform with project-based validation, boosting completion rates.
-* Championed the creation of a feature-rich Python code editor with OpenAI integration, reducing error resolution time . This integration intelligently suggests solutions and optimizes code output.
-* Designed and implemented a scalable user management system, ensuring secure authentication and streamlining user onboarding , reducing administrative overhead.
+* Championed the creation of a feature-rich Python code editor with OpenAI integration, reducing error resolution time. This integration intelligently suggests solutions and optimizes code output.
+* Designed and implemented a scalable user management system, ensuring secure authentication and streamlining user onboarding, reducing administrative overhead.
 * Developed an intuitive blog system enabling team members to upload markdown files for automatic updates, streamlining content creation.
 * Implemented a user feedback system generating valuable insights.
 
@@ -102,7 +103,6 @@
 * Effectively managed the project's development lifecycle, ensuring timely delivery and a high-quality user experience. 
 * Leveraged React, Supabase, Webpack, and Next.js to create a seamless user experience.
 
-
 **Co-Founder | [Everything Blog](https://www.everythingblog.in/)**
 
 * Developed a fully automated blog management system using Next.js as the front-end framework and Notion.so as a headless CMS.
@@ -110,4 +110,16 @@
     * Uploads content to a pre-configured Notion workspace, ensuring SEO best practices for improved search ranking.
     * Publishes the blog post on the website, minimizing manual intervention and maximizing efficiency.
 * Leveraged Next.js's server-side rendering (SSR) capabilities for optimal SEO performance and a seamless user experience.
+
+**Founder | [get jacked pro](https://getjacked.pro/)**
+
+* Developed a comprehensive fitness tracker app designed to enhance workout experiences and help users reach their fitness goals.
+* **Key Features:**
+    * **Custom Workouts:** Users can create personalized workouts from a database of over 873 exercises.
+    * **Workout Tracking:** Tracks sets, weights, and reps in real-time with dynamic progress updates.
+    * **Workout Summary:** Provides a concise breakdown of workout stats, including sets, reps, and total time.
+    * **Weight Tracking:** Includes an intuitive weight tracking tool for users to set goals and log daily measurements.
+    * **Detailed Dashboard:** Displays a data-rich dashboard offering insights into users' fitness progress.
+    * **Gamification:** Motivates users with points, leveling up, and a leaderboard to encourage consistency and friendly competition.
+* Designed the app with a focus on user engagement and progress tracking through gamification, promoting long-term fitness consistency.
 
