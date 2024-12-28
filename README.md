@@ -84,15 +84,6 @@
 
 ## Experience :briefcase:
 
-**Tech Lead | [Tenacity (Startup)](https://tenacity.social/)**
-
-* Spearheaded the development and delivery of 2 successful projects, fostering a cohesive and supportive team environment (8 members).
-* Architected a dynamic course platform with project-based validation, boosting completion rates.
-* Championed the creation of a feature-rich Python code editor with OpenAI integration, reducing error resolution time. This integration intelligently suggests solutions and optimizes code output.
-* Designed and implemented a scalable user management system, ensuring secure authentication and streamlining user onboarding, reducing administrative overhead.
-* Developed an intuitive blog system enabling team members to upload markdown files for automatic updates, streamlining content creation.
-* Implemented a user feedback system generating valuable insights.
-
 **Co-Founder | [Promptly Chrome Extension](https://promptly-plugin.vercel.app/)**
 
 * Led the development of the "Promptly" Chrome extension, empowering users with a curated prompt library for ChatGPT, boosting productivity in writing tasks.
