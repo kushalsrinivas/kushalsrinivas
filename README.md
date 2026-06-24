@@ -80,7 +80,7 @@
 </tr>
 </table>
 
-
+[![whoburnedmore](https://api.whoburnedmore.com/v1/badge/kushalsrinivas.svg)](https://whoburnedmore.com/u/kushalsrinivas)
 
 ## Experience :briefcase:
 
